@@ -1,10 +1,54 @@
 body {
-  margin: 0;
+  margin: 100;
+  display: flex;
+  height: 50vh;
+  flex-wrap: wrap;
+  overflow: hidden;
 }
 
-#box {
+/* #box {
   width: 25px;
   height: 25px;
   background-color: deepskyblue;
+} */
+
+
+/* .box5 {
+  width: 100px; 
+  height: 100px;
+  background-color: red;
+  /* box-shadow: 0 1rem 1rem; */
+} */
+
+.hover {
+  box-shadow: 0 1rem 1rem;
 }
 
+.down {
+  background-color: blue;
+  width: 105px;
+  height: 105px;
+}
+
+/* .box6 {
+  width: 100px; 
+  height: 100px;
+  background-color: orange;
+} */
+
+/* .box7 {
+  width: 100px; 
+  height: 100px;
+  background-color: orange;
+  border: 5px solid black;
+} */
+
+#eggo {
+  position: relative;
+  top: 100px;
+  left: 100px;
+  width: 100px; 
+  height: 100px;
+  background-color: purple;
+  border: 5px solid black;
+}
