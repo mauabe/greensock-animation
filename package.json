@@ -4,9 +4,10 @@
   },
   "devDependencies": {
     "lodash": "^4.17.14",
-    "parcel-bundler": "^1.12.3"
+    "parcel-bundler": "^1.12.4"
   },
   "dependencies": {
-    "gsap": "^2.1.2"
+    "gsap": "^2.1.2",
+    "vm2": "^3.8.4"
   }
 }
