@@ -9,7 +9,7 @@
   "dependencies": {
     "acorn": "^6.4.1",
     "gsap": "^3.6.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "vm2": "^3.9.11"
   }
 }
